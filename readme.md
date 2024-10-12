@@ -72,7 +72,7 @@ import (
     "fmt"
     "net/http"
     "time"
-    "your/package/path/ratelimiter"
+    "github.com/crkacer/golimitr"
 )
 
 func main() {
